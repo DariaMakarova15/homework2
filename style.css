@@ -1,0 +1,46 @@
+
+.good{
+	color:white;
+	background-color:red;
+	width:7%;
+}
+.ready{
+	background-color:blue;
+	font-size:15px;
+	padding-bottom:35px;
+	width:25%;
+}
+
+.error{
+	background-color:yellow;
+    font-size:15px;
+	padding-bottom:27px;
+	width:25%;
+}
+.one{
+	background:red;
+	padding-bottom:45px;
+	width:4%;
+}
+.two{
+	background:orange;
+	padding-bottom:45px;
+	width:8%;
+}
+.three{
+	background:blue;
+	padding-bottom:45px;
+	width:12%;
+}
+.four{
+	background:coral;
+	font-size:35px;
+	padding-bottom:34px;
+	padding-top:22px;
+	border-right:5px;
+	text-indent:17px;
+	width:16%;
+}
+.five{
+	background-color:rgba(198, 206, 183, 0.88);
+}
